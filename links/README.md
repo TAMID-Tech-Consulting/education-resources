@@ -301,7 +301,7 @@ ___
 ### Youtube Video Playlists
 
 ### Free Courses
-https://mode.com/sql-tutorial/
+* [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
 ### Paid Courses
 
 ___
