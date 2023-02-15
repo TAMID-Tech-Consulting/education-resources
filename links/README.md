@@ -50,6 +50,7 @@ ___
 * [Udemy - Angular Paid Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ___
+## Bash
 
 ### Helpful Links
 
