@@ -195,11 +195,19 @@ ___
 
 ### Helpful Links
 
+* [Golang Docs](https://golangdocs.com/)
+
 ### Youtube Video Playlists
+
+* [Golong Tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 ### Free Courses
 
+* [Coursera](https://www.coursera.org/learn/golang-getting-started)
+
 ### Paid Courses
+
+* [Udemy - Master Go](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/)
 
 ___
 
@@ -277,8 +285,11 @@ ___
 ### Helpful Links
 
 * [Android Development Course - Build Native Apps with Kotlin Tutorial](https://youtu.be/Iz08OTTjR04)
+* [Kotlin Docs](https://kotlinlang.org/docs/home.html)
 
 ### Youtube Video Playlists
+
+* [FreeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 
 ### Free Courses
 
@@ -290,7 +301,11 @@ ___
 
 ### Helpful Links
 
+* [Kubernetes Docs](https://kubernetes.io/docs/home/)
+
 ### Youtube Video Playlists
+
+* [FreeCodeCamp](https://www.youtube.com/watch?v=d6WC5n9G_sM)
 
 ### Free Courses
 
@@ -318,10 +333,14 @@ ___
 
 ### Helpful Links
 
+* [MySQL Docs](https://dev.mysql.com/doc/)
+
 ### Youtube Video Playlists
 
 ### Free Courses
+
 * [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+
 ### Paid Courses
 
 ___
@@ -347,6 +366,8 @@ ___
 ## PhP
 
 ### Helpful Links
+
+* [PhP Docs](https://www.php.net/docs.php)
 
 ### Youtube Video Playlists
 
@@ -433,6 +454,8 @@ ___
 
 ## Ruby on Rails
 
+* [RubyOnRails Docs](https://guides.rubyonrails.org/)
+
 ### Helpful Links
 
 ### Youtube Video Playlists
@@ -448,6 +471,8 @@ ___
 ___
 
 ## Swift
+
+* [Swift Docs](https://www.swift.org/documentation/)
 
 ### Helpful Links
 
@@ -482,6 +507,8 @@ ___
 ___
 
 ## Vue.js
+
+* [Vue.js Docs](https://vuejs.org/guide/introduction.html)
 
 ### Helpful Links
 
