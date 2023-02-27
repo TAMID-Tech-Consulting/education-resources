@@ -508,12 +508,18 @@ ___
 
 ## Vue.js
 
-* [Vue.js Docs](https://vuejs.org/guide/introduction.html)
-
 ### Helpful Links
+
+* [Vue.js Docs](https://vuejs.org/guide/introduction.html)
 
 ### Youtube Video Playlists
 
+* [FreeCodeCamp](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+
 ### Free Courses
 
+* [Udemy](https://www.udemy.com/topic/vue-js/free/)
+
 ### Paid Courses
+
+* [Udemy](https://www.udemy.com/topic/vue-js/)
