@@ -50,7 +50,7 @@ ___
 * [Udemy - Angular Paid Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ___
-## Bash
+## Bash Scripting
 
 ### Helpful Links
 
@@ -170,8 +170,12 @@ ___
 
 ### Free Courses
 
+* [LinkedIn Learning](https://www.linkedin.com/learning/topics/firebase)
+
 ### Paid Courses
 
+* [Udemy Paid Courses](https://www.udemy.com/topic/firebase/?)
+* [PluralSight](https://www.pluralsight.com/courses/firebase-fundamentals)
 ___
 
 ## Git
@@ -187,7 +191,11 @@ ___
 
 ### Free Courses
 
+* [GitConnected](https://gitconnected.com/learn/git)
+
 ### Paid Courses
+
+* [CodeCademy](https://www.codecademy.com/learn/learn-git)
 
 ___
 
@@ -293,7 +301,12 @@ ___
 
 ### Free Courses
 
+* [W3Schools](https://www.w3schools.com/kotlin/index.php)
+
 ### Paid Courses
+
+* [JetBrains](https://lp.jetbrains.com/academy/learn-kotlin/)
+* [CodeCademy](https://www.codecademy.com/learn/learn-kotlin)
 
 ___
 
@@ -302,6 +315,7 @@ ___
 ### Helpful Links
 
 * [Kubernetes Docs](https://kubernetes.io/docs/home/)
+* [Azure Guide](https://azurecomcdn.azureedge.net/cvt-2a4db1141b2ec1421a49861e04b386710c2fe436e3718cb9af7ec58b1909d934/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path_Version%202.0.pdf/)
 
 ### Youtube Video Playlists
 
@@ -309,7 +323,11 @@ ___
 
 ### Free Courses
 
+* [Udemy](https://www.udemy.com/course/kubernetes-getting-started/)
+
 ### Paid Courses
+
+* [Learnk8s](https://learnk8s.io/academy)
 
 ___
 
@@ -325,7 +343,11 @@ ___
 
 ### Free Courses
 
+* [MongoDB Free Courses](https://www.mongodb.com/developer/products/mongodb/learn-mongodb-university-online-free-mooc/)
+
 ### Paid Courses
+
+* [Udemy](https://www.udemy.com/topic/mongodb/)
 
 ___
 
@@ -337,11 +359,15 @@ ___
 
 ### Youtube Video Playlists
 
+* [FreeCodeCamp](https://www.youtube.com/watch?v=ER8oKX5myE0)
+
 ### Free Courses
 
 * [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
 
 ### Paid Courses
+
+* [Udemy](https://www.udemy.com/topic/mysql/)
 
 ___
 
@@ -359,7 +385,11 @@ ___
 
 ### Free Courses
 
+* [FreeCodeCamp](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
+
 ### Paid Courses
+
+* [Udemy](https://www.udemy.com/course/the-complete-nodejs-express-with-nodejs-for-beginners/)
 
 ___
 
