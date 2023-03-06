@@ -460,7 +460,11 @@ ___
 
 ### Free Courses
 
+* [Udemy Free](https://www.udemy.com/topic/react-native/free/)
+
 ### Paid Courses
+
+* [Udemy](https://www.udemy.com/topic/react-native/)
 
 ___
 
@@ -478,7 +482,11 @@ ___
 
 ### Free Courses
 
+* [Free Courses](https://reactjs.org/community/courses.html)
+
 ### Paid Courses
+
+* [Paid Courses](https://reactjs.org/community/courses.html)
 
 ___
 
@@ -488,7 +496,11 @@ ___
 
 ### Helpful Links
 
+* [TutorialsPoint](https://www.tutorialspoint.com/ruby-on-rails/index.htm)
+
 ### Youtube Video Playlists
+
+* [FreeCodeCamp](https://www.youtube.com/watch?v=fmyvWz5TUWg)
 
 ### Free Courses
 
@@ -498,6 +510,8 @@ ___
 
 ### Paid Courses
 
+* [Udemy](https://www.udemy.com/topic/ruby-on-rails/)
+
 ___
 
 ## Swift
@@ -506,7 +520,11 @@ ___
 
 ### Helpful Links
 
+* [W3Schools](https://www.w3schools.in/swift/tutorials/)
+
 ### Youtube Video Playlists
+
+* [Swift Tutorial](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 
 ### Free Courses
 
@@ -533,6 +551,8 @@ ___
 * [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
 
 ### Paid Courses
+
+* [Typescript Paid Courses](https://www.udemy.com/topic/typescript/)
 
 ___
 
