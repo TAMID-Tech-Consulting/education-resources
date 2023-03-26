@@ -405,7 +405,11 @@ ___
 
 ### Free Courses
 
+* [CodeCademy](https://www.codecademy.com/learn/learn-php)
+
 ### Paid Courses
+
+* [Udemy](https://www.udemy.com/topic/php/)
 
 ___
 
@@ -414,6 +418,7 @@ ___
 ### Helpful Links
 
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+* [PostgreSQL Resources](https://www.postgresql.org/docs/online-resources/)
 
 ### Youtube Video Playlists
 
@@ -421,8 +426,11 @@ ___
 
 ### Free Courses
 
+* [Coursera](https://www.coursera.org/courses?query=postgresql)
+
 ### Paid Courses
 
+* [Udemy](https://www.udemy.com/topic/postgresql/)
 ___
 
 ## Python
